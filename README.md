@@ -3,10 +3,13 @@
 [Wszystkie projekty w scratchu](https://scratch.mit.edu/users/sp3dzg/)
 
 ## Projekty w scratchu, pythonie i javascript z podzialem na klasy
+
 ### klasa 6
+
 [6 12 Zgadnij Liczbę](https://scratch.mit.edu/projects/1123269047/)
 
 ### klasa 7
+
 ##### 3.1 Zakręt za zakrętem
 [7 3.1 zakręt_za_zakrętem - GWIAZDA](https://scratch.mit.edu/projects/1123704625/)
 
@@ -25,5 +28,15 @@
 [7 3.3 algorytm Euklidesa - podstawowy w Javascript](https://www.programiz.com/online-compiler/0lOzohS4LXj7W)
 
 [7.3.3 algorytm Euklidesa - szybki - w scratchu](https://scratch.mit.edu/projects/1123753513/)
+
+### klasa 8
+
+##### 4.4 Fraktale w smartfonie
+
+[płatek Kocha - Scratch](https://scratch.mit.edu/projects/1123809710/)
+
+[płatek kocha - python - sandbox online](https://pythonsandbox.com/code/pythonsandbox_u122993_PBjAjxL5RHsFmALXjAxXMKen_v0.py)
+
+
 
 
