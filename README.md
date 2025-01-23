@@ -6,36 +6,53 @@
 
 ### klasa 6
 
-[6 12 Zgadnij Liczbę](https://scratch.mit.edu/projects/1123269047/)
+#### 6.12 Zgadnij liczbę
+
+- Projekt w scratchu - [zgadnij liczbę](https://scratch.mit.edu/projects/1123269047/)
 
 ### klasa 7
 
-##### 3.1 Zakręt za zakrętem
-[7 3.1 zakręt_za_zakrętem - GWIAZDA](https://scratch.mit.edu/projects/1123704625/)
+#### 3.1 Zakręt za zakrętem
 
-[7 3.1 zakręt_za_zakrętem - LABIRYNT](https://scratch.mit.edu/projects/1123721037/)
+- Projekty w scratchu - 
+[GWIAZDA](https://scratch.mit.edu/projects/1123704625/), 
+[LABIRYNT](https://scratch.mit.edu/projects/1123721037/), 
+[LABIRYNT SPIRALNY](https://scratch.mit.edu/projects/1123731980/)
 
-[7 3.1 zakręt_za_zakrętem - LABIRYNT Spiralny](https://scratch.mit.edu/projects/1123731980/)
+- funkcja ogólna - pokaz [python-sandbox](https://pythonsandbox.com/code/pythonsandbox_u122993_Pk1zI6XZXyi41ZfvlbMVvGqT_v0.py)
 
-##### 3.2 Wieże Hanoi
-[7 3.2 wieże Hanoi](https://scratch.mit.edu/projects/1123735196/)
+#### 3.2 Wieże Hanoi
 
-##### 3.3 Algorytm Euklidesa
-[7 3.3 algorytm Euklidesa - podstawowy - w scratchu](https://scratch.mit.edu/projects/1123767348/)
+- wieże Hanoi - [scratch](https://scratch.mit.edu/projects/1123735196/)
 
-[7 3.3 algorytm Euklidesa - podstawowy w Pythonie](https://www.programiz.com/online-compiler/1EGvCDqpFkK5m)
+#### 3.3 Algorytm Euklidesa
 
-[7 3.3 algorytm Euklidesa - podstawowy w Javascript](https://www.programiz.com/online-compiler/0lOzohS4LXj7W)
+- algorytm Euklidesa - podstawowy (odejmowanie) - 
+[scratch](https://scratch.mit.edu/projects/1123767348/) 
+[python](https://www.programiz.com/online-compiler/1EGvCDqpFkK5m) 
+[javascript](https://www.programiz.com/online-compiler/0lOzohS4LXj7W)
 
-[7.3.3 algorytm Euklidesa - szybki - w scratchu](https://scratch.mit.edu/projects/1123753513/)
+- algorytm Euklidesa - szybki (dzielenie modulo) -
+[scratch](https://scratch.mit.edu/projects/1123753513/)
 
 ### klasa 8
 
-##### 4.4 Fraktale w smartfonie
+#### 4.3 Fraktale w Scratchu i w Pythonie
 
-[płatek Kocha - Scratch](https://scratch.mit.edu/projects/1123809710/)
+- drzewo binarne 
+[scratch](https://scratch.mit.edu/projects/1124274589/)
+- rozne drzewa binarne - pokaz 
+[python - sandbox](https://pythonsandbox.com/code/pythonsandbox_u122993_niRdvBRaII8LqZJyT4l6zYhf_v0.py) 
 
-[płatek kocha - python - sandbox online](https://pythonsandbox.com/code/pythonsandbox_u122993_PBjAjxL5RHsFmALXjAxXMKen_v0.py)
+#### 4.4 Fraktale w smartfonie
+
+- płatek Kocha - 
+  [scratch](https://scratch.mit.edu/projects/1123809710/)
+  [python-sandbox online](https://pythonsandbox.com/code/pythonsandbox_u122993_PBjAjxL5RHsFmALXjAxXMKen_v0.py)
+- trójkąt Sierpińskiego
+[scratch](https://scratch.mit.edu/projects/1124292462/) 
+[python-sandbox online](https://pythonsandbox.com/code/pythonsandbox_u122993_DimAUOD4rXoEW3aaRhksep2Y_v1.py)
+- n-kąt Sierpińskiego [python-sandbox](https://pythonsandbox.com/code/pythonsandbox_u122993_h285aBxzZllW026MEuNArnLW_v0.py)
 
 
 
