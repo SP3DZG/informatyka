@@ -10,6 +10,11 @@
 
 - Projekt w scratchu - [zgadnij liczbę](https://scratch.mit.edu/projects/1123269047/)
 
+### 6.16 Jak to działa
+
+- Dokument excela z algorytmem dodawania pisemnego, tabliczką mnożenia, produktami
+https://docs.google.com/spreadsheets/d/1lZfq6bcHRXbP7luHsK6A-Ga79ZJ5nEqTF9yJDpWi_b4/edit?usp=sharing
+
 ### klasa 7
 
 #### 3.1 Zakręt za zakrętem
